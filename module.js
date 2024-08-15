@@ -227,9 +227,6 @@ const newArray = [
         }
     }
 ]
-import index from "./main"
-console.log("Log:", JSON.stringify(index.getFunt.foundObject));
-    JSON.parse(JSON.stringify(foundObject));
 
 export default newArray;
 // asagidaki arraydan isdifade ederek main.js  ve index.js yaradin
